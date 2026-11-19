@@ -1,5 +1,4 @@
 # Finance-Analysis
-# Finance & Cash Collection Analysis
 
 ## Project Overview
 This project evaluates the financial performance of a retail and distribution business, focusing on revenue, cost of goods sold, gross profit, payment collection, refunds, outstanding payments, and departmental payroll budgets.
